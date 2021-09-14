@@ -99,7 +99,7 @@ const ORDER_NAME=['as'=>8, 'roi'=>7, 'dame'=>6, 'valet'=>5,'10'=>4, '9'=>3, '8'=
     return $cardGame;
   }
 
-  // TODO manque PHPDoc  
+ 
   /** Retourne la carte à la position de $index de la pile de carte
    * 
    *
