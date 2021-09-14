@@ -6,7 +6,7 @@ Niveau : Deuxième année de BTS SIO SLAM
 
 ## But du jeu
 
-Le jeu se lance dans une console ave le fichier play-console.php . Lorsqu'on execute le fichier, le joueur propose une la position de la carte choisit par le programme aléatoirement jusqu'a que le joueur choisissent la bonne carte.(J'ai commencé plus tard à cause du manque de matériel je n'ai pas pu approfondir le projet). 
+Le jeu se lance dans une console ave le fichier play-console.php . Lorsqu'on execute le fichier, le joueur propose une la position de la carte choisit par le programme aléatoirement jusqu'a que le joueur choisissent la bonne carte.
 
 
 
